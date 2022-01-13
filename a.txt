@@ -1,8 +1,1 @@
-aaaaaaa
-VVVVVVVVVVVVVVVVV
-
-
-
-hello  world
-
 hello  git~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
