@@ -1,8 +1,5 @@
-aaaaaaa
-VVVVVVVVVVVVVVVVV
-
-
-
-hello  world
-
+<<<<<<< HEAD
 hello  git~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=======
+hello  git!!!!!!!!!!!!!!!!!!!!!!!
+>>>>>>> 4b74808acca5801c93862211864c8e49bd55819b
